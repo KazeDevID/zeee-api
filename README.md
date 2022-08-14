@@ -1,2 +1,5 @@
 # zeee-api
-pakai aja asal pake kasih star nya
+
+## ```Untuk info lainnya```
+
+[Klik di sini](https://KazeDevID.github.io/zeee-api/)
