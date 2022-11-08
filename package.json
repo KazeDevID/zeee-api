@@ -4,7 +4,7 @@
   "description": "zeee-api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "@kazesolo/test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
